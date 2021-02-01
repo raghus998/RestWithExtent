@@ -1,0 +1,21 @@
+{
+   "Credentials":    {
+      "PrimeSuiteCredential":       {
+         "PrimeSuiteSiteId": "350173",
+         "PrimeSuiteUserAlias": "String Content",
+         "PrimeSuiteUserName": "lporter",
+         "PrimeSuiteUserPassword": "lporter"
+      },
+      "VendorCredential":       {
+         "VendorLogin": "QATeamGuid",
+         "VendorPassword": "QATeamGuid"
+      }
+   },
+   "Header":    {
+      "DestinationSiteID": "350173",
+      "PrimeSuiteUserID": "1038",
+      "SourceSiteID": "350173"
+   },
+  "PatientID":26191
+}
+ 

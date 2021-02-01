@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Actual Status code is : 200Expected Status Code is : 200]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10005" started-at="2020-10-21T06:32:40Z" finished-at="2020-10-21T06:32:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10005" started-at="2020-10-21T06:32:40Z" finished-at="2020-10-21T06:32:50Z">
+      <class name="com.restwithextent.tests.TC351771">
+        <test-method status="PASS" signature="Test351771()[pri:0, instance:com.restwithextent.tests.TC351771@14acaea5]" name="Test351771" duration-ms="9985" started-at="2020-10-21T06:32:40Z" finished-at="2020-10-21T06:32:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual Status code is : 200Expected Status Code is : 200]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test351771 -->
+      </class> <!-- com.restwithextent.tests.TC351771 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Suite -->
+</testng-results>
